@@ -1,0 +1,1 @@
+C:\2025\MeuControle\MeuControle\MeuControle.csproj;x64
