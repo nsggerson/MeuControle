@@ -84,7 +84,7 @@ MeuControle/bin/
 obj/
 
 # Ignore .vs directory (Visual Studio-specific)
-.MeuControle/vs/
+MeuControle/.vs/
 
 # Ignore Maui-specific directories and files
 maui-widgets/
